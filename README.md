@@ -1,7 +1,7 @@
 
 
-                            <!-- ***** This article is best suited for beginners who aren't afraid to get
-                                       their hands dirty setting up a React environment from scratch. ***** -->
+            <!-- ***** This article is best suited for beginners who aren't afraid to get
+                       their hands dirty setting up a React environment from scratch. ***** -->
 
 
     1. Pre-requisites : 
